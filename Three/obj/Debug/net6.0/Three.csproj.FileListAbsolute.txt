@@ -1,0 +1,15 @@
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\bin\Debug\net6.0\Three.exe
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\bin\Debug\net6.0\Three.deps.json
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\bin\Debug\net6.0\Three.runtimeconfig.json
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\bin\Debug\net6.0\Three.dll
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\bin\Debug\net6.0\Three.pdb
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.csproj.CoreCompileInputs.cache
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.dll
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\refint\Three.dll
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.pdb
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\Three.genruntimeconfig.cache
+D:\GIT-REPO\ForHomeWork\Two\Tasks\Three\obj\Debug\net6.0\ref\Three.dll
